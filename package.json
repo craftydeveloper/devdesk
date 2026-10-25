@@ -1,0 +1,11 @@
+{
+  "name": "devdesk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A personal developer workspace for small tasks, notes, and project checklists.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
